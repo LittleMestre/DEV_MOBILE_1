@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaComprasInteligente</string>
+    <string name="welcome_title">Lista de Compras Inteligente</string>
+    <string name="welcome_subtitle">Digite seu nome para começar</string>
+    <string name="hint_user_name">Seu nome</string>
+    <string name="btn_enter">Entrar</string>
+    <string name="greeting_text">Olá, %1$s!</string>
+    <string name="cart_title">Carrinho:</string>
+    <string name="cart_empty">Nenhum item no carrinho ainda.</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_fruit">Frutas</string>
+    <string name="filter_cleaning">Limpeza</string>
+    <string name="filter_drink">Bebidas</string>
+    <string name="filter_preserved">Conservados</string>
+    <string name="details_title">Detalhes do item</string>
+    <string name="category_label">Categoria: %1$s</string>
+    <string name="available_quantity_label">Disponível: %1$d %2$s</string>
+    <string name="btn_back">Voltar</string>
+    <string name="btn_details">Detalhes</string>
+    <string name="checkbox_bought">Comprar</string>
+    <string name="item_checked">%1$s adicionado ao carrinho: %2$d %3$s.</string>
+    <string name="item_unchecked">%1$s removido do carrinho e devolvido: %2$d %3$s.</string>
+    <string name="filter_selected">Filtro selecionado: %1$s</string>
+    <string name="cart_line">%1$s - %2$d %3$s</string>
+    <string name="choose_quantity_title">Escolha a quantidade de %1$s</string>
+    <string name="no_stock">%1$s não tem mais unidades disponíveis.</string>
+</resources>

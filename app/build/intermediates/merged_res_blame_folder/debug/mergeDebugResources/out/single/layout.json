@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.listacomprasinteligente.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-mergeDebugResources-30:/layout/fragment_sobre.xml",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/fragment_sobre.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-mergeDebugResources-30:/layout/item_product.xml",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-mergeDebugResources-30:/layout/activity_detail.xml",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-mergeDebugResources-30:/layout/fragment_produtos.xml",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/fragment_produtos.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-mergeDebugResources-30:/layout/fragment_carrinho.xml",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/fragment_carrinho.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-mergeDebugResources-30:/layout/activity_user.xml",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/activity_user.xml"
+    }
+]

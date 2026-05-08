@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cream"
+    tools:context=".SobreFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/shopping_logo" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:text="Lista de Compras Inteligente"
+            android:textColor="@color/green_dark"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:background="@color/white"
+            android:padding="16dp"
+            android:text="Proposta do aplicativo: organizar uma lista de compras por categorias, permitindo visualizar produtos, marcar itens para comprar e consultar o carrinho.\n\nConceitos usados no projeto:\n\n• Bottom Navigation: navegação inferior entre Produtos, Carrinho e Sobre.\n\n• Fragment: cada tela principal foi separada em um Fragment.\n\n• RecyclerView: exibe a lista de produtos de forma organizada.\n\n• Data class: a classe Product guarda os dados dos produtos.\n\n• Entidade: Product representa o objeto principal do sistema.\n\n• Ciclo de vida: os métodos como onCreate, onStart, onResume, onPause e onDestroy foram demonstrados com Log.d usando a tag CICLO."
+            android:textColor="@color/text_dark"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+</ScrollView>

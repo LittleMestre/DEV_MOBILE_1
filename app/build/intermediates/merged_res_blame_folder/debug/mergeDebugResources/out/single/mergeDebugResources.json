@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/layout_fragment_produtos.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/fragment_produtos.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_desinfetante.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/desinfetante.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/layout_activity_detail.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_maca.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/maca.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_cat_limpeza.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/cat_limpeza.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_monster.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/monster.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_cat_frutas.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/cat_frutas.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_bolacha.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/bolacha.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_whisky.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/whisky.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_uva.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/uva.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_rodo.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/rodo.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_cat_conservados.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/cat_conservados.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_laranja.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/laranja.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_cat_bebidas.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/cat_bebidas.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/layout_item_product.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/layout_fragment_sobre.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/fragment_sobre.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_leite.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/leite.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_banana.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/banana.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_ic_info.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_detergente.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/detergente.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_ic_cart.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/ic_cart.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_qboa.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/qboa.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/layout_activity_user.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/activity_user.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_coca.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/coca.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_carne.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/carne.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_arroz.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/arroz.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/layout_fragment_carrinho.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/layout/fragment_carrinho.xml"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_shopping_logo.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/shopping_logo.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_miojo.png.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/miojo.png"
+    },
+    {
+        "merged": "com.example.listacomprasinteligente.app-debug-31:/drawable_ic_products.xml.flat",
+        "source": "com.example.listacomprasinteligente.app-main-33:/drawable/ic_products.xml"
+    }
+]
